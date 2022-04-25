@@ -8,25 +8,25 @@ function colors {
 }
 colors
 line
-echo -e "$YELLOW |                     0000000            0000000       00000000000                  |$NORMAL" && sleep 1
-echo -e "$YELLOW |                  000       000      000       000    00000000000                  |$NORMAL" && sleep 1
-echo -e "$YELLOW |                 00           00    00           00   00                           |$NORMAL" && sleep 1
-echo -e "$YELLOW |                00             00  00             00  00000000000                  |$NORMAL" && sleep 1
-echo -e "$YELLOW |  000000000000  00             00  00             00  00000000000   000000000000   |$NORMAL" && sleep 1
-echo -e "$YELLOW |  000000000000  00             00  00             00  00            000000000000   |$NORMAL" && sleep 1
-echo -e "$YELLOW |                00             00  00             00  00                           |$NORMAL" && sleep 1
-echo -e "$YELLOW |                 00           00    00           00   00                           |$NORMAL" && sleep 1
-echo -e "$YELLOW |                  000       000      000       000    00                           |$NORMAL" && sleep 1
-echo -e "$YELLOW |                     0000000            0000000       00                           |$NORMAL" && sleep 1
-echo -e "$YELLOW |                                                                                   |$NORMAL" && sleep 1
-echo -e "$YELLOW |000           000      0000000        0000000        0000000000000      000000000  |$NORMAL" && sleep 1
-echo -e "$YELLOW |00000         000   000       000     000  0000      0000000000000.   00000        |$NORMAL" && sleep 1
-echo -e "$YELLOW |000 0000      000  00           00    000    0000    000.                000       |$NORMAL" && sleep 1
-echo -e "$YELLOW |000   000     000 00             00   000       000  000.                  000     |$NORMAL" && sleep 1
-echo -e "$YELLOW |000    000    000 00             00   000       000  0000000000000.          000   |$NORMAL" && sleep 1
-echo -e "$YELLOW |000     000   000 00             00   000       000. 0000000000000.            000 |$NORMAL" && sleep 1
-echo -e "$YELLOW |000      000  000 00             00   000       000  000                        000|$NORMAL" && sleep 1
-echo -e "$YELLOW |000       000 000  00           00    000    0000    000.                    0000  |$NORMAL" && sleep 1        
-echo -e "$YELLOW |000        000000   000       000     000  0000      0000000000000         0000    |$NORMAL" && sleep 1
-echo -e "$YELLOW |000          0000      0000000        0000000        0000000000000    0000000      |$NORMAL" && sleep 1
+echo -e "$YELLOW |                     0000000            0000000       00000000000                  |$NORMAL" && sleep 0.5
+echo -e "$YELLOW |                  000       000      000       000    00000000000                  |$NORMAL" && sleep 0.5
+echo -e "$YELLOW |                 00           00    00           00   00                           |$NORMAL" && sleep 0.5
+echo -e "$YELLOW |                00             00  00             00  00000000000                  |$NORMAL" && sleep 0.5
+echo -e "$YELLOW |  000000000000  00             00  00             00  00000000000   000000000000   |$NORMAL" && sleep 0.5
+echo -e "$YELLOW |  000000000000  00             00  00             00  00            000000000000   |$NORMAL" && sleep 0.5
+echo -e "$YELLOW |                00             00  00             00  00                           |$NORMAL" && sleep 0.5
+echo -e "$YELLOW |                 00           00    00           00   00                           |$NORMAL" && sleep 0.5
+echo -e "$YELLOW |                  000       000      000       000    00                           |$NORMAL" && sleep 0.5
+echo -e "$YELLOW |                     0000000            0000000       00                           |$NORMAL" && sleep 0.5
+echo -e "$YELLOW |                                                                                   |$NORMAL" && sleep 0.5
+echo -e "$YELLOW |000           000      0000000        0000000        0000000000000      000000000  |$NORMAL" && sleep 0.5
+echo -e "$YELLOW |00000         000   000       000     000  0000      0000000000000.   00000        |$NORMAL" && sleep 0.5
+echo -e "$YELLOW |000 0000      000  00           00    000    0000    000.                000       |$NORMAL" && sleep 0.5
+echo -e "$YELLOW |000   000     000 00             00   000       000  000.                  000     |$NORMAL" && sleep 0.5
+echo -e "$YELLOW |000    000    000 00             00   000       000  0000000000000.          000   |$NORMAL" && sleep 0.5
+echo -e "$YELLOW |000     000   000 00             00   000       000. 0000000000000.            000 |$NORMAL" && sleep 0.5
+echo -e "$YELLOW |000      000  000 00             00   000       000  000                        000|$NORMAL" && sleep 0.5
+echo -e "$YELLOW |000       000 000  00           00    000    0000    000.                    0000  |$NORMAL" && sleep 0.5      
+echo -e "$YELLOW |000        000000   000       000     000  0000      0000000000000         0000    |$NORMAL" && sleep 0.5
+echo -e "$YELLOW |000          0000      0000000        0000000        0000000000000    0000000      |$NORMAL" && sleep 0.5
 line
