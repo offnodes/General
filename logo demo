@@ -3,6 +3,7 @@ function colors {
   YELLOW="\e[1;33m"
   NORMAL="\e[0m"
 }
+colors
 echo -e "$YELLOW      0000000            0000000       00000000000 $NORMAL"
 echo -e "$YELLOW   000       000      000       000    00000000000 $NORMAL"
 echo -e "$YELLOW  00           00    00           00   00 $NORMAL"
